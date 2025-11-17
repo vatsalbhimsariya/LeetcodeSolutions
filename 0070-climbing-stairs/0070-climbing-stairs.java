@@ -17,7 +17,7 @@ class Solution {
             return memo[n];
         }
         int result=fib(n-1,memo)+fib(n-2,memo);
-        memo[n]=result;
+       memo[n]=result;
     return result;
     }
 }
