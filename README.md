@@ -49,4 +49,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0816-design-hashset](https://github.com/vatsalbhimsariya/LeetcodeSolutions/tree/master/0816-design-hashset) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/vatsalbhimsariya/LeetcodeSolutions/tree/master/0070-climbing-stairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/vatsalbhimsariya/LeetcodeSolutions/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/vatsalbhimsariya/LeetcodeSolutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
