@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/vatsalbhimsariya/LeetcodeSolutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vatsalbhimsariya/LeetcodeSolutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0816-design-hashset](https://github.com/vatsalbhimsariya/LeetcodeSolutions/tree/master/0816-design-hashset) |
 | [2266-count-number-of-texts](https://github.com/vatsalbhimsariya/LeetcodeSolutions/tree/master/2266-count-number-of-texts) |
@@ -72,6 +73,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/vatsalbhimsariya/LeetcodeSolutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0091-decode-ways](https://github.com/vatsalbhimsariya/LeetcodeSolutions/tree/master/0091-decode-ways) |
 | [2266-count-number-of-texts](https://github.com/vatsalbhimsariya/LeetcodeSolutions/tree/master/2266-count-number-of-texts) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/vatsalbhimsariya/LeetcodeSolutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
