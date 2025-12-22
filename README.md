@@ -56,11 +56,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/vatsalbhimsariya/LeetcodeSolutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/vatsalbhimsariya/LeetcodeSolutions/tree/master/0070-climbing-stairs) |
 | [2266-count-number-of-texts](https://github.com/vatsalbhimsariya/LeetcodeSolutions/tree/master/2266-count-number-of-texts) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/vatsalbhimsariya/LeetcodeSolutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/vatsalbhimsariya/LeetcodeSolutions/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/vatsalbhimsariya/LeetcodeSolutions/tree/master/0091-decode-ways) |
 | [0198-house-robber](https://github.com/vatsalbhimsariya/LeetcodeSolutions/tree/master/0198-house-robber) |
@@ -80,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vatsalbhimsariya/LeetcodeSolutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/vatsalbhimsariya/LeetcodeSolutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
