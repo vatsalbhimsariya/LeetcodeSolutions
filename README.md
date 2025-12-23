@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/vatsalbhimsariya/LeetcodeSolutions/tree/master/0221-maximal-square) |
 | [0746-min-cost-climbing-stairs](https://github.com/vatsalbhimsariya/LeetcodeSolutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0816-design-hashset](https://github.com/vatsalbhimsariya/LeetcodeSolutions/tree/master/0816-design-hashset) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/vatsalbhimsariya/LeetcodeSolutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Design
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/vatsalbhimsariya/LeetcodeSolutions/tree/master/0221-maximal-square) |
 | [0746-min-cost-climbing-stairs](https://github.com/vatsalbhimsariya/LeetcodeSolutions/tree/master/0746-min-cost-climbing-stairs) |
 | [2266-count-number-of-texts](https://github.com/vatsalbhimsariya/LeetcodeSolutions/tree/master/2266-count-number-of-texts) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/vatsalbhimsariya/LeetcodeSolutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Memoization
 |  |
 | ------- |
@@ -101,4 +103,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/vatsalbhimsariya/LeetcodeSolutions/tree/master/0064-minimum-path-sum) |
 | [0174-dungeon-game](https://github.com/vatsalbhimsariya/LeetcodeSolutions/tree/master/0174-dungeon-game) |
 | [0221-maximal-square](https://github.com/vatsalbhimsariya/LeetcodeSolutions/tree/master/0221-maximal-square) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/vatsalbhimsariya/LeetcodeSolutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 <!---LeetCode Topics End-->
