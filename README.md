@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/vatsalbhimsariya/LeetcodeSolutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/vatsalbhimsariya/LeetcodeSolutions/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/vatsalbhimsariya/LeetcodeSolutions/tree/master/0198-house-robber) |
+| [0221-maximal-square](https://github.com/vatsalbhimsariya/LeetcodeSolutions/tree/master/0221-maximal-square) |
 | [0746-min-cost-climbing-stairs](https://github.com/vatsalbhimsariya/LeetcodeSolutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0816-design-hashset](https://github.com/vatsalbhimsariya/LeetcodeSolutions/tree/master/0816-design-hashset) |
 ## Design
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/vatsalbhimsariya/LeetcodeSolutions/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/vatsalbhimsariya/LeetcodeSolutions/tree/master/0091-decode-ways) |
 | [0198-house-robber](https://github.com/vatsalbhimsariya/LeetcodeSolutions/tree/master/0198-house-robber) |
+| [0221-maximal-square](https://github.com/vatsalbhimsariya/LeetcodeSolutions/tree/master/0221-maximal-square) |
 | [0746-min-cost-climbing-stairs](https://github.com/vatsalbhimsariya/LeetcodeSolutions/tree/master/0746-min-cost-climbing-stairs) |
 | [2266-count-number-of-texts](https://github.com/vatsalbhimsariya/LeetcodeSolutions/tree/master/2266-count-number-of-texts) |
 ## Memoization
@@ -95,4 +97,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/vatsalbhimsariya/LeetcodeSolutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/vatsalbhimsariya/LeetcodeSolutions/tree/master/0064-minimum-path-sum) |
+| [0221-maximal-square](https://github.com/vatsalbhimsariya/LeetcodeSolutions/tree/master/0221-maximal-square) |
 <!---LeetCode Topics End-->
