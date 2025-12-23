@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/vatsalbhimsariya/LeetcodeSolutions/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/vatsalbhimsariya/LeetcodeSolutions/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/vatsalbhimsariya/LeetcodeSolutions/tree/master/0221-maximal-square) |
+| [0416-partition-equal-subset-sum](https://github.com/vatsalbhimsariya/LeetcodeSolutions/tree/master/0416-partition-equal-subset-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/vatsalbhimsariya/LeetcodeSolutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0816-design-hashset](https://github.com/vatsalbhimsariya/LeetcodeSolutions/tree/master/0816-design-hashset) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/vatsalbhimsariya/LeetcodeSolutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/vatsalbhimsariya/LeetcodeSolutions/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/vatsalbhimsariya/LeetcodeSolutions/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/vatsalbhimsariya/LeetcodeSolutions/tree/master/0221-maximal-square) |
+| [0416-partition-equal-subset-sum](https://github.com/vatsalbhimsariya/LeetcodeSolutions/tree/master/0416-partition-equal-subset-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/vatsalbhimsariya/LeetcodeSolutions/tree/master/0746-min-cost-climbing-stairs) |
 | [2266-count-number-of-texts](https://github.com/vatsalbhimsariya/LeetcodeSolutions/tree/master/2266-count-number-of-texts) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/vatsalbhimsariya/LeetcodeSolutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
