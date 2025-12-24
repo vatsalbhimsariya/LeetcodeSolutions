@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/vatsalbhimsariya/LeetcodeSolutions/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/vatsalbhimsariya/LeetcodeSolutions/tree/master/0221-maximal-square) |
 | [0416-partition-equal-subset-sum](https://github.com/vatsalbhimsariya/LeetcodeSolutions/tree/master/0416-partition-equal-subset-sum) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/vatsalbhimsariya/LeetcodeSolutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0746-min-cost-climbing-stairs](https://github.com/vatsalbhimsariya/LeetcodeSolutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0816-design-hashset](https://github.com/vatsalbhimsariya/LeetcodeSolutions/tree/master/0816-design-hashset) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/vatsalbhimsariya/LeetcodeSolutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/vatsalbhimsariya/LeetcodeSolutions/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/vatsalbhimsariya/LeetcodeSolutions/tree/master/0221-maximal-square) |
 | [0416-partition-equal-subset-sum](https://github.com/vatsalbhimsariya/LeetcodeSolutions/tree/master/0416-partition-equal-subset-sum) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/vatsalbhimsariya/LeetcodeSolutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0746-min-cost-climbing-stairs](https://github.com/vatsalbhimsariya/LeetcodeSolutions/tree/master/0746-min-cost-climbing-stairs) |
 | [2266-count-number-of-texts](https://github.com/vatsalbhimsariya/LeetcodeSolutions/tree/master/2266-count-number-of-texts) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/vatsalbhimsariya/LeetcodeSolutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/vatsalbhimsariya/LeetcodeSolutions/tree/master/0070-climbing-stairs) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/vatsalbhimsariya/LeetcodeSolutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## String
 |  |
 | ------- |
@@ -94,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vatsalbhimsariya/LeetcodeSolutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/vatsalbhimsariya/LeetcodeSolutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Combinatorics
 |  |
 | ------- |
@@ -106,4 +110,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/vatsalbhimsariya/LeetcodeSolutions/tree/master/0174-dungeon-game) |
 | [0221-maximal-square](https://github.com/vatsalbhimsariya/LeetcodeSolutions/tree/master/0221-maximal-square) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/vatsalbhimsariya/LeetcodeSolutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/vatsalbhimsariya/LeetcodeSolutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Bitmask
+|  |
+| ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/vatsalbhimsariya/LeetcodeSolutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 <!---LeetCode Topics End-->
